@@ -83,6 +83,13 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "O Deno é melhor que NodeJS? com Giovanni Bassi | #HipstersPontoTube",
+      "descricao": "8,8 mil visualizações",
+      "url": "https://www.youtube.com/embed/SDEwUZ7xuG0",
+      "imagem": "https://i.ytimg.com/vi/SDEwUZ7xuG0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUwCjdQUilZ0FcDdDeRS_-XL55bA",
+      "id": 12
     }
   ]
 }
