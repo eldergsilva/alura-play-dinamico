@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
 <hr>
@@ -17,3 +18,7 @@
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
+=======
+# alura-play-dinamico
+Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.
+>>>>>>> ee581711487bc0d353e879e1394b0f0b07c759fc
